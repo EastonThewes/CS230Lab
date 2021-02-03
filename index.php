@@ -76,7 +76,7 @@
     <div class = "row">
         <div class = "mission">
             <h1>Our Mission</h1>
-            <p><i>To produce the best milk</i></p>
+            <p><i>To produce the best milk. Ever since the cow was created, milk has been its purpose.</i></p>
                 <div class = "button">
                 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="button">
                 Store Page
