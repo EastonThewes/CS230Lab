@@ -1,0 +1,35 @@
+.center-me {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+.bg-cover {
+    background-image: url("../images/main-bg-2.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat; 
+}
+
+.form-signin {
+
+    padding: 20px;
+    text-align: center;
+    background-color: cornsilk;
+    border-radius: 40px;
+
+
+}
+
+input {
+    margin-bottom: 5px;
+
+}
+
+img {
+    max-width: 800px;
+    max-height: 300px;
+    margin: auto;
+}
