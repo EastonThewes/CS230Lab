@@ -45,7 +45,14 @@ session_start();
                     </li>
                     <li class = "nav-item">
                         <a class = "nav-link" href="profile.php">Profile</a>
+                    </li>
+                    <li class = "nav-item">
+                        <a class = "nav-link" href="admin.php">Admin</a>
+                    </li>
+                    <li class = "nav-item">
+                        <a class = "nav-link" href="gallery.php">Gallery</a>
                     </li>';
+                    
                 } else {
                     echo '<li class="nav-item">
                     <a class = "nav-link" href="../login.php">Log In</a>
